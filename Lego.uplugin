@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "3.0",
+	"FriendlyName": "Lego",
+	"Description": "",
+	"Category": "Lego",
+	"CreatedBy": "Markra",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.7.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"SupportedTargetPlatforms": [
+		"Win64"
+	],
+	"Modules": [
+		{
+			"Name": "Lego",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "LegoEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
